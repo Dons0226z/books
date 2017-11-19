@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version					: Ruby 2.4.2
 
-* System dependencies
+* System dependencies			: Centos 6.9
 
 * Configuration
 
-* Database creation
+* Database creation				: Mysql
 
 * Database initialization
 
